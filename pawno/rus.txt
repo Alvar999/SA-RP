@@ -1,0 +1,33 @@
+./includes/sf-pro.pwn(5180) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "Robbing"
+./includes/sf-pro.pwn(5182) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CashLoading"
+./includes/sf-pro.pwn(9373) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "pCuopNha"
+./includes/sf-pro.pwn(9978) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "LoadJob"
+./includes/sf-pro.pwn(9979) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "LoadFood"
+./includes/sf-pro.pwn(9980) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "LoadSafeZones"
+./includes/sf-pro.pwn(9981) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "LoadCameraKos"
+./includes/sf-pro.pwn(9982) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "LoadObjectDaoDa"
+./includes/sf-pro.pwn(18602) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "pTienVienPhi"
+./includes/sf-pro.pwn(18813) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SetPlayerJoinCamera"
+./includes/sf-pro.pwn(18989) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "pSucKhoe"
+./includes/sf-pro.pwn(19025) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19032) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19039) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19046) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19053) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19061) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19066) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19071) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19076) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19081) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19088) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19099) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19104) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19109) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+./includes/sf-pro.pwn(19121) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "HospitalPlayer"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Îøèáîê:26.
